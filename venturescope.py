@@ -36,7 +36,7 @@ llm = ChatGroq(
 )
 
 # 6. User startup idea
-startup_idea = input("\n💡 Enter your startup idea: ").strip()
+startup_idea = input("\n Enter your startup idea: ").strip()
 
 if not startup_idea:
     print("Startup idea cannot be empty.")
@@ -77,7 +77,7 @@ If evidence is insufficient, say so clearly.
 # 9. Generate response
 response = llm.invoke(prompt)
 
-print("\n📊 Startup Feasibility Report:\n")
+print("\n Startup Feasibility Report:\n")
 print(response.content)
 
 print("\n---")
