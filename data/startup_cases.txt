@@ -1,5 +1,30 @@
-Many startups fail due to lack of product-market fit.
-High competition in SaaS markets increases customer acquisition cost.
-Startups that ignore user feedback often fail early.
-AI startups require strong data availability and model differentiation.
-Hardware startups face higher capital and operational risks.
+[GENERAL STARTUP FAILURES]
+Many startups fail due to lack of product-market fit, where the product does not solve a real or urgent customer problem.
+Ignoring early user feedback often leads to building features that customers do not value.
+High competition increases customer acquisition cost and reduces profit margins.
+
+[SAAS AND SOFTWARE STARTUPS]
+SaaS startups often face intense competition, making differentiation and pricing strategy critical.
+Customer acquisition costs in SaaS markets can be high due to many similar solutions.
+Subscription-based products require long-term customer retention to be profitable.
+
+[EDUCATION TECHNOLOGY STARTUPS]
+Education-focused startups often face slow adoption due to budget constraints and institutional decision-making.
+Colleges and universities may resist frequent technology changes due to training and administrative overhead.
+Data privacy and student information protection are important concerns in education systems.
+
+[AI STARTUPS]
+AI startups require access to high-quality, domain-specific data for training and validation.
+Model differentiation is necessary to compete with existing AI solutions.
+Lack of transparency and explainability can reduce trust in AI-based systems.
+
+[HEALTHCARE AND AI-DOCTOR SYSTEMS]
+Healthcare-related AI systems face strict regulatory and ethical requirements.
+Trust, safety, and accuracy are critical when AI interacts directly with patients.
+AI healthcare solutions often require human oversight to avoid legal and ethical risks.
+Deploying AI in healthcare may involve higher operational and compliance costs.
+
+[HARDWARE-BASED STARTUPS]
+Hardware startups require higher upfront capital and longer development cycles.
+Manufacturing, maintenance, and supply chain management increase operational complexity.
+Hardware-based solutions are harder to scale compared to pure software products.
