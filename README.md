@@ -108,20 +108,21 @@ venturescope-rag/
 git clone https://github.com/vaishnav-reddy/VentureScope-RAG.git
 cd VentureScope-RAG
 ```
-Step 2: Create a Virtual Environment (Recommended)
-
+### Step 2: Create a Virtual Environment (Recommended)
+```
 python -m venv venv
 venv\Scripts\activate    # Windows
 # source venv/bin/activate  # macOS/Linux
-
+```
 ### Step 3: Install Dependencies
 
+```
 pip install -r requirements.txt
-
+```
 ### Step 4: Configure API Key
-
+```
 GROQ_API_KEY=your_groq_api_key_here
-
+```
 Make sure .env is listed in .gitignore.
 
 ### Step 5: Run the Application
